@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb://localhost:27017/adarfolks" 
+    "mongoURI": "mongodb://localhost:27017/adarfolks",
+    "jwtSecret": "mysercrettoken"
 }
