@@ -156,6 +156,7 @@ router.delete("/", auth, async (req, reg) => {
   } catch (err) {
     console.error(err.message);
     res.status(500).send("Server Error");
+
   }
 });
 
