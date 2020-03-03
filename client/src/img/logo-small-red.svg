@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg3487"
+   version="1.1"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="logo-small-red.svg">
+  <defs
+     id="defs3489" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#767676"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-517.85714"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3840"
+     inkscape:window-height="2102"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3492">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3505"
+       transform="translate(8.0238991,12.39032)"
+       style="fill:#ca1626;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3390"
+         style="fill:#ca1626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="M 174.08234,71.044543 511.8741,654.01306 606.582,486.6908 363.49813,70.509513 174.08234,71.044543 Z" />
+      <g
+         transform="matrix(7.8680649,0,0,-7.8680649,121.46469,374.10352)"
+         id="g3392"
+         style="fill:#ca1626;fill-opacity:1">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3394"
+           style="fill:#ca1626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 0,0 42.932,-74.093 54.969,-52.828 24.074,0.067 0,0 Z" />
+      </g>
+    </g>
+  </g>
+</svg>
